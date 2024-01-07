@@ -1,0 +1,24 @@
+html, body {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.SimpleButton {
+  background-color: blue;
+  color: white;
+}
+
+#renderCanvas {
+  width: 100%;
+  height: 95%;
+  touch-action: none;
+}
+
+#menuBar {
+  width: 100%;
+  height: 5%;
+  touch-action: none;
+}
